@@ -1,0 +1,5 @@
+data:1 time:1 roomId:2 stuId:1 stuName:张三 status:2
+data:4 time:2 roomId:2 stuId:1 stuName:张三 status:2
+data:4 time:2 roomId:2 stuId:1 stuName:张三 status:3
+data:3 time:2 roomId:3 stuId:1 stuName:张三 status:3
+data:5 time:2 roomId:2 stuId:1 stuName:张三 status:4
